@@ -1,0 +1,18 @@
+contact and top header font: Montserrat regular 17px
+Menu fonts: Montserrat Bold 20px
+
+1. VDM PArts banner font: Montserrat Black 60px
+2. Genuine Parts : Montserrat Regular 24px
+3. Button font: Montserrat Black 20px
+4. Mototcycle Components and Assessories: Montserrat ExtraBold 60px
+5. VDM Parts : Montserrat ExtraBold
+6. Do you want : Montserrat Bold
+7. Catalogue : Montserrat Bold
+   - Description: Montserrat meduim 24pt
+8. The best : Montserrat Black 60pt
+9. Useful lnks : Montserrat Bold 30pt
+   - Home, company : Montserrat Regular 24pt
+Footer bottom font :Montserrat Regulat 18ot
+
+10. Footer top bg color: #242424
+    Footer bottom bg color: #1d1d1d
